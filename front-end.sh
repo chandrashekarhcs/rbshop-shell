@@ -7,4 +7,4 @@ cd /usr/share/nginx/html
 unzip /tmp/frontend.zip
 #vim /etc/nginx/nginx.conf
 systemctl enable nginx 
-systemctl restart nginx 
+systemctl restart nginx
